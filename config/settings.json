@@ -1,0 +1,7 @@
+{
+    "record_user_input_delay": false,
+    "min_delay": 0.03,
+    "stop_button": "f9",
+    "suppress_hotkeys": true,
+    "macros_file": "config/macros.json"
+}

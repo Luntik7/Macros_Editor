@@ -1,0 +1,33 @@
+{
+    "5": [
+        ["down", "ALT"],
+        ["down", "TAB"],
+        ["up", "TAB"],
+        ["up", "ALT"]
+    ],
+    "4": [
+        ["down", "CTRL"],
+        ["down", "F"],
+        ["up", "F"],
+        ["up", "CTRL"]
+    ],
+    "1": [
+        ["down", "1"],
+        ["up", "1"],
+        ["down", "2"],
+        ["up", "2"]
+    ],
+    "ctrl + shift + esc": [
+        ["down", "CTRL"],
+        ["down", "F"],
+        ["up", "F"],
+        ["up", "CTRL"]
+    ],
+    "alt + shift": [
+        ["down", "ALT"],
+        ["down", "SHIFT"],
+        ["delay", 0.1],
+        ["up", "ALT"],
+        ["up", "SHIFT"]
+    ]
+}
