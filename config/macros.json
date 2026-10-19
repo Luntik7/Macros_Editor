@@ -22,12 +22,5 @@
         ["down", "F"],
         ["up", "F"],
         ["up", "CTRL"]
-    ],
-    "alt + shift": [
-        ["down", "ALT"],
-        ["down", "SHIFT"],
-        ["delay", 0.1],
-        ["up", "ALT"],
-        ["up", "SHIFT"]
     ]
 }
